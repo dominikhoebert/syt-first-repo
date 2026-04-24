@@ -1,12 +1,12 @@
 # syt-first-repo
 Das ist unser erstes Repository.
 
-## Zweiter Abschnitt
+## BurakBaba
 
 asdfasdf
 
 - liste
-- über
+- hey
 - dinge
 
 ## Dritter Abschnitt
@@ -22,7 +22,7 @@ asdfasdf
 
 - über
 - dinge 
-  - unterpunkt
+  - opaaaa
 
 
 ## Fünfter Abschnitt
